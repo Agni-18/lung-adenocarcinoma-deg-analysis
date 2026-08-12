@@ -1,1 +1,11 @@
-
+GEOparse
+pandas
+numpy
+scipy
+statsmodels
+gseapy
+matplotlib
+seaborn
+lifelines
+requests
+urllib3
